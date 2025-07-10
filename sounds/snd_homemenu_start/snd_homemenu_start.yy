@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_homemenu_start",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":0.41371882,
+  "name":"snd_homemenu_start",
+  "parent":{
+    "name":"Jingles",
+    "path":"folders/Sounds/Jingles.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_homemenu_start.ogg",
+  "type":0,
+  "volume":1.0,
+}

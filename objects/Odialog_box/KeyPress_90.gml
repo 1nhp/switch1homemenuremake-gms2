@@ -1,0 +1,1 @@
+if (scale > 0.77) { event_user(0) }

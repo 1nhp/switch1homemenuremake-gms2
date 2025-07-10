@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_move6",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":0.10594104,
+  "name":"snd_move6",
+  "parent":{
+    "name":"Move Sounds",
+    "path":"folders/Sounds/Move Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_move6.ogg",
+  "type":0,
+  "volume":1.0,
+}
